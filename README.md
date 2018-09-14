@@ -1,5 +1,5 @@
 # Overview
-This code simulates the optimal velocity model (OVM) or a multiple car following model.  
+This code simulates the optimal velocity model (OVM) or a multiple car following (MCF) model.  
 
 ## Dependencies
 Matplotlib
