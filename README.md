@@ -3,8 +3,11 @@ This code simulates the optimal velocity model (OVM) or a multiple car following
 
 ## Dependencies
 Matplotlib
+
 NumPy
+
 SciPy
+
 scikit-learn
 
 ## Usage
